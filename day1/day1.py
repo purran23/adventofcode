@@ -36,4 +36,3 @@ def part2 (first: list, second: list) -> int:
 
 part1(first_list, second_list)
 part2(first_list, second_list)
-
